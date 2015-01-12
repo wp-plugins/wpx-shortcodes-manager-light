@@ -1,0 +1,280 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Shortcodes Manager\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-01-08 10:43+0100\n"
+"PO-Revision-Date: 2015-01-08 10:43+0100\n"
+"Last-Translator: wpXtreme, Inc. <info@wpxtre.me>\n"
+"Language-Team: wpXtreme, Inc. <info@wpxtre.me>\n"
+"Language: it_IT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_nx:1,2\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 1.7.1\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../classes/admin/enhancer/wpxsm-enhancer-post.php:206
+#, php-format
+msgid "The shortcode <code>[%s]</code> was disabled by Shortocode Manager!"
+msgstr ""
+
+#: ../classes/admin/enhancer/wpxsm-enhancer-post.php:302
+msgid "Unregistered"
+msgstr ""
+
+#: ../classes/admin/enhancer/wpxsm-enhancer-post.php:309
+#: ../classes/admin/shortcodes/wpxsm-shortcodes.php:170
+msgid "Disabled"
+msgstr ""
+
+#: ../classes/admin/enhancer/wpxsm-enhancer-post.php:316
+msgid "Hide in content"
+msgstr ""
+
+#: ../classes/admin/enhancer/wpxsm-enhancer-post.php:372
+msgid "Shortcodes Manager Analysis"
+msgstr ""
+
+#: ../classes/admin/enhancer/wpxsm-enhancer-post.php:373
+msgid "No suspicius Shortcodes found!"
+msgstr ""
+
+#: ../classes/admin/enhancer/wpxsm-enhancer-post.php:378
+msgid "Shortcodes Manager Analysis Warning!"
+msgstr ""
+
+#: ../classes/admin/enhancer/wpxsm-enhancer-post.php:394
+msgid ""
+"Some shortcodes in your content seems <strong>suspicious</strong> Please "
+"check preview or content."
+msgstr ""
+
+#: ../classes/admin/preferences/wpxsm-preferences-viewcontroller.php:41
+msgid "General"
+msgstr ""
+
+#: ../classes/admin/preferences/wpxsm-preferences-viewcontroller.php:44
+#: ../classes/admin/wpxsm-admin.php:97
+msgid "Preferences"
+msgstr ""
+
+#: ../classes/admin/preferences/wpxsm-preferences-viewcontroller.php:94
+msgid "Shortcodes Analysis"
+msgstr ""
+
+#: ../classes/admin/preferences/wpxsm-preferences-viewcontroller.php:96
+msgid ""
+"Enable a Shortcodes Analysis when you edit a post and display an Alert "
+"Message whether found any <strong>unregistered</strong> shortcodes."
+msgstr ""
+
+#: ../classes/admin/preferences/wpxsm-preferences-viewcontroller.php:101
+#: ../classes/admin/shortcodes/wpxsm-shortcodes.php:232
+#: ../classes/admin/shortcodes/wpxsm-shortcodes.php:272
+msgid "Enable"
+msgstr ""
+
+#: ../classes/admin/shortcodes/wpxsm-shortcode-edit-view.php:69
+msgid "Back"
+msgstr ""
+
+#: ../classes/admin/shortcodes/wpxsm-shortcode-edit-view.php:71
+msgid "Update"
+msgstr ""
+
+#: ../classes/admin/shortcodes/wpxsm-shortcode-edit-view.php:71
+msgid "Create"
+msgstr ""
+
+#: ../classes/admin/shortcodes/wpxsm-shortcode-edit-view.php:91
+#, php-format
+msgid "Edit %s"
+msgstr ""
+
+#: ../classes/admin/shortcodes/wpxsm-shortcode-edit-view.php:91
+msgid "Create a new Shortcode"
+msgstr ""
+
+#: ../classes/admin/shortcodes/wpxsm-shortcode-edit-view.php:108
+msgid "This is the shortcode name that you will use in you post content."
+msgstr ""
+
+#: ../classes/admin/shortcodes/wpxsm-shortcode-edit-view.php:114
+#: ../classes/admin/shortcodes/wpxsm-shortcodes.php:135
+msgid "Shortcode"
+msgstr ""
+
+#: ../classes/admin/shortcodes/wpxsm-shortcode-edit-view.php:115
+msgid "Eg: notice"
+msgstr ""
+
+#: ../classes/admin/shortcodes/wpxsm-shortcode-edit-view.php:120
+msgid ""
+"Edit any HTML markup and use the <code>$content</code> placeholder if you "
+"wish wrap shortcode content."
+msgstr ""
+
+#: ../classes/admin/shortcodes/wpxsm-shortcode-edit-view.php:126
+msgid "Eg: <span color=\"#f00\">I am red $content</span>"
+msgstr ""
+
+#: ../classes/admin/shortcodes/wpxsm-shortcode-edit-view.php:127
+msgid "HTML Markup"
+msgstr ""
+
+#: ../classes/admin/shortcodes/wpxsm-shortcodes-viewcontroller.php:59
+msgid "Shortcodes"
+msgstr ""
+
+#: ../classes/admin/shortcodes/wpxsm-shortcodes-viewcontroller.php:82
+msgid "Items per page"
+msgstr ""
+
+#: ../classes/admin/shortcodes/wpxsm-shortcodes-viewcontroller.php:295
+msgid "Overview"
+msgstr ""
+
+#: ../classes/admin/shortcodes/wpxsm-shortcodes-viewcontroller.php:365
+msgid "Manage Shortcodes"
+msgstr ""
+
+#: ../classes/admin/shortcodes/wpxsm-shortcodes-viewcontroller.php:366
+msgid ""
+"From this view you can manage all registered shortcodes. You can disable the "
+"shortcode execution or remove it from the content! For instance, if you have "
+"in your post content something like <code>Hello, [B]World[/B]</code> you can:"
+msgstr ""
+
+#: ../classes/admin/shortcodes/wpxsm-shortcodes-viewcontroller.php:370
+#: ../classes/admin/shortcodes/wpxsm-shortcodes.php:138
+#: ../classes/admin/shortcodes/wpxsm-shortcodes.php:169
+msgid "Enabled"
+msgstr ""
+
+#: ../classes/admin/shortcodes/wpxsm-shortcodes-viewcontroller.php:371
+#: ../classes/admin/shortcodes/wpxsm-shortcodes.php:139
+msgid "In Content"
+msgstr ""
+
+#: ../classes/admin/shortcodes/wpxsm-shortcodes-viewcontroller.php:372
+msgid "Output"
+msgstr ""
+
+#: ../classes/admin/shortcodes/wpxsm-shortcodes.php:136
+msgid "Callable/Callback"
+msgstr ""
+
+#: ../classes/admin/shortcodes/wpxsm-shortcodes.php:137
+#: ../classes/admin/shortcodes/wpxsm-shortcodes.php:168
+msgid "Custom"
+msgstr ""
+
+#: ../classes/admin/shortcodes/wpxsm-shortcodes.php:167
+msgid "All"
+msgstr ""
+
+#: ../classes/admin/shortcodes/wpxsm-shortcodes.php:171
+msgid "Show in Content"
+msgstr ""
+
+#: ../classes/admin/shortcodes/wpxsm-shortcodes.php:172
+#: ../classes/admin/shortcodes/wpxsm-shortcodes.php:235
+#: ../classes/admin/shortcodes/wpxsm-shortcodes.php:275
+msgid "Hide in Content"
+msgstr ""
+
+#: ../classes/admin/shortcodes/wpxsm-shortcodes.php:231
+#: ../classes/admin/shortcodes/wpxsm-shortcodes.php:271
+msgid "Edit"
+msgstr ""
+
+#: ../classes/admin/shortcodes/wpxsm-shortcodes.php:233
+#: ../classes/admin/shortcodes/wpxsm-shortcodes.php:273
+msgid "Disable"
+msgstr ""
+
+#: ../classes/admin/shortcodes/wpxsm-shortcodes.php:234
+#: ../classes/admin/shortcodes/wpxsm-shortcodes.php:274
+msgid "Display in content"
+msgstr ""
+
+#: ../classes/admin/shortcodes/wpxsm-shortcodes.php:236
+#: ../classes/admin/shortcodes/wpxsm-shortcodes.php:276
+msgid "Delete"
+msgstr ""
+
+#: ../classes/admin/wpxsm-admin.php:83
+msgid "Shortcodes Manager"
+msgstr ""
+
+#: ../classes/admin/wpxsm-admin.php:89
+msgid "Manage"
+msgstr ""
+
+#: ../classes/core/wpxsm-ajax.php:73 ../classes/core/wpxsm-ajax.php:124
+msgid "No Shortcode ID!"
+msgstr ""
+
+#: ../kickstart.php:109
+#, php-format
+msgid ""
+"<strong>%s</strong> cannot be used because is not compatible with your "
+"current <strong>WordPress version %s</strong> (<strong>minimum requirement: "
+"%s</strong>)"
+msgstr ""
+
+#: ../kickstart.php:110
+#, php-format
+msgid ""
+"<strong>%s</strong> cannot be used because is not compatible with your "
+"current <strong>PHP language version %s</strong> (<strong>minimum "
+"requirement: %s</strong>)"
+msgstr ""
+
+#: ../kickstart.php:111
+#, php-format
+msgid ""
+"<strong>%s</strong> cannot be used because is not compatible with your "
+"current <strong>MySQL database version %s</strong> (<strong>minimum "
+"requirement: %s</strong>)"
+msgstr ""
+
+#: ../kickstart.php:115
+#, php-format
+msgid ""
+"To continue using <strong>%s</strong>, please upgrade the WordPress version "
+"to the minimum required version."
+msgstr ""
+
+#: ../kickstart.php:116
+#, php-format
+msgid ""
+"To continue using <strong>%s</strong>, please upgrade the PHP language "
+"version to the minimum required version."
+msgstr ""
+
+#: ../kickstart.php:117
+#, php-format
+msgid ""
+"To continue using <strong>%s</strong>, please upgrade the MySQL version to "
+"the minimum required version."
+msgstr ""
+
+#: ../kickstart.php:121
+#, php-format
+msgid ""
+"<strong>%s</strong> cannot be used because is not compatible with your "
+"current <strong>wpXtreme framework version %s</strong> (<strong>minimum "
+"requirement: %s</strong>)"
+msgstr ""
+
+#: ../kickstart.php:122
+#, php-format
+msgid ""
+"To continue using <strong>%s</strong>, please upgrade the wpXtreme framework "
+"version to the minimum required version."
+msgstr ""
