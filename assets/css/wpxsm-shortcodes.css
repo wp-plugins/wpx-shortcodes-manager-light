@@ -1,0 +1,118 @@
+/**
+ * CSS Style Sheet for Backend
+ *
+ * @author        wpXtreme, Inc.
+ * @copyright     Copyright (C) 2013-2014 wpXtreme Inc. All Rights Reserved.
+ * @date	        2014-01-27
+ * @version       1.0.0
+ */
+
+/* =====================================================================================================================
+ * Icon
+ * =====================================================================================================================
+ */
+
+div#wpxsm-shortcodes-header-view.wpdk-vc-header-icon
+{
+  background-image : url(images/logo-64x64.png);
+}
+
+/* =====================================================================================================================
+ * List View
+ * =====================================================================================================================
+ */
+
+tr.custom th.check-column
+{
+  border-left : 4px solid #649be4;
+}
+
+tr.disabled th.check-column
+{
+  border-left : 4px solid #b4454c;
+}
+
+tr.disabled.show_in_content th.check-column
+{
+  border-left : 4px solid #ed5a61;
+}
+
+tr.show_in_content th.check-column
+{
+  border-left : 4px solid #d9b73a;
+}
+
+table.shortcodes tbody th,
+table.shortcodes tbody td
+{
+  border-bottom : 1px solid #e5e5e5;
+}
+
+.column-shortcode_id
+{
+  width : 300px;
+}
+
+td.column-shortcode_id code,
+td.column-callback code
+{
+  font-size      : 12px !important;
+  padding        : 0 4px !important;
+  vertical-align : middle !important;
+}
+
+div.wpxsm-overflow-cel
+{
+  overflow-x : auto;
+}
+
+td.column-callback
+{
+  white-space : nowrap;
+}
+
+td.column-callback i
+{
+  font-size      : 20px !important;
+  vertical-align : middle !important;
+}
+
+td.column-callback i.wpdk-icon-ok
+{
+  color : #8fc33b;
+}
+
+td.column-callback i.wpdk-icon-attention
+{
+  color : #ff3a02;
+}
+
+.column-enabled,
+.column-show_in_content
+{
+  border-left    : 1px solid #e5e5e5;
+  text-align     : right !important;
+  width          : 80px;
+  vertical-align : middle !important;
+}
+
+.column-custom
+{
+  width      : 50px;
+  text-align : center;
+}
+
+textarea#html
+{
+  background-color   : #444;
+  border             : medium none;
+  color              : #fc0;
+  font-family        : Monaco;
+  font-size          : 12px !important;
+  height             : 200px;
+  padding            : 7px !important;
+  width              : 70%;
+  -moz-box-shadow    : 0 4px 6px #000 inset;
+  -webkit-box-shadow : 0 4px 6px #000 inset;
+  box-shadow         : 0 4px 6px #000 inset;
+}
