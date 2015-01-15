@@ -1,7 +1,7 @@
 === WPX Shortcodes Manager Light ===
 Contributors: gfazioli
 Donate link: https://wpxtre.me
-Tags: shortcodes
+Tags: shortcodes, shortcode, editor, theme, post, page, admin, manage
 Requires at least: 3.8.0
 Tested up to: 4.1
 Stable tag: 1.0.8
