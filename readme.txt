@@ -14,7 +14,7 @@ Shortcodes Manager provides you with the cleanest and simplest tool to manage Wo
 
 Shortcodes Manager provides you with the cleanest and simplest tool to manage WordPress shortcodes you've ever seen.
 
-http://www.youtube.com/embed/9WUhMClLTuA?rel=0
+http://www.youtube.com/watch?v=9WUhMClLTuA
 
 = Full version =
 
